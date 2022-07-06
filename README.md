@@ -6,7 +6,7 @@ This Project is for sorting files alphabetically and rewrites it back to the use
 
 # Development Environment
 
-In this videos, I used InteliJ and wrote a program to prompt the user if they wanted to read the contents of a file to the screen, or to a file, and sort the file alphabetically.
+In this videos, I used IntelliJ and wrote a program to prompt the user if they wanted to read the contents of a file to the screen, or to a file, and sort the file alphabetically.
 
 # Useful Websites
 
